@@ -3,3 +3,4 @@ Others
 message.html
 **/preparation
 .ipynb_checkpoints
+.DS_Store
