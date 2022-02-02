@@ -13,7 +13,7 @@ You may observe how I have resolved the materials with my students [here](https:
 
 ## Other Github Repositories for Practicing Python
 
-- https://github.com/guipsamora/pandas_exercises
+- https://github.com/jsulopz/pandas_exercises
 
 - https://github.com/XD-DENG/SQL-exercise
 
