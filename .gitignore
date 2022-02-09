@@ -7,8 +7,11 @@ message.html
 .virtual_documents
 utils.ipynb
 solutions/
+course/
 05_Convolutional Neural Networks/
 06_GAN/
 IV Resolving Python for Professionals/
 03_Working Around Unbalanced Data/
 04_Wrangling Data for Modelling/
+03_Disecting the Object with Pandas DataFrame Properties/
+IV Deep Learning/
