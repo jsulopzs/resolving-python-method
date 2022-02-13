@@ -31,6 +31,143 @@ jupyter lab
 
 The materials are **cautiously** ordered. It is recommended that you follow it, otherwise you may not unleash its potential because I'll make you think from the very beginning some errors that always prompt and even experienced programmers don't quite understand.
 
+- ✅ → Already Done
+- 👨‍💻 → In Development
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: left;">
+      <th></th>
+      <th>notebook</th>
+      <th>practice</th>
+      <th>session</th>
+    </tr>
+    <tr>
+      <th>subject</th>
+      <th>chapter</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="4" valign="top">01 Resolving Python with Data Science</th>
+      <th>01_Data Tables &amp; Basic Concepts of Programming</th>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>02_Disecting the Object with Pandas DataFrame Properties</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>03_DataFrame Manipulation &amp; Data Visualization</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>04_Many Paths to Rome with Data Visualization</th>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th rowspan="7" valign="top">02 Machine Learning</th>
+      <th>01_Machine Learning &amp; Linear Regression</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>02_Why Neural Networks Deeply Learn a Mathematical Formula</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>03_Decision Tree. A Supervised Classification Model</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>04_Model Selection. Decision Tree vs Support Vector Machines vs Logistic Regression</th>
+      <td>✅</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>05_Hyperparameter Tuning with Cross Validation</th>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>06_Cluster Analysis con k-Means</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>07_Componentes Principales (PCA)</th>
+      <td>👨‍💻</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th rowspan="4" valign="top">03 Advanced Machine Learning</th>
+      <th>01_Web Development &amp; Machine Learning Deployment</th>
+      <td>✅</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>02_Feature Importance with Shapley Values</th>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <th>03_Working Around Unbalanced Data</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>04_Wrangling Data for Modelling</th>
+      <td>✅</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th rowspan="2" valign="top">04 Deep Learning</th>
+      <th>01_Convolutional Neural Networks</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>02_GAN</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th rowspan="5" valign="top">05 Resolving Python for Professionals</th>
+      <th>01_Master Python Like Excel</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>02_APIs</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>03_For Loops to Develop Creative Solutions</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>04_Web Development &amp; Dashboards</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+    <tr>
+      <th>05_SQL</th>
+      <td>👨‍💻</td>
+      <td>👨‍💻</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 01 Resolving Python with Data Science
 
 Learn basic concepts of Programming & Python with curately examples using the pandas `DataFrame`.
