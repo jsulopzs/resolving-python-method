@@ -1,3 +1,10 @@
+## Updating changes from GitHub
+
+```
+cd pandas_exercises
+git pull
+```
+
 ## Uploading changes to GitHub
 
 ```
