@@ -1,15 +1,6 @@
-to_translate/
-others/
-message.html
-**/preparation
 .ipynb_checkpoints
 .DS_Store
-.virtual_documents
-utils.ipynb
-solutions/
-course/
-utils/
-webinar/
-show/
-04_syntax-apple_practice.ipynb
 99_Extras/
+others/
+11_What Is Next/
+00_Introduction/
