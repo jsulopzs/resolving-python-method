@@ -13,13 +13,13 @@ At the same time, you will work with the famous pandas.DataFrame to manipulate &
 3. [Git](https://git-scm.com/downloads) installed
 4. Git configured in the terminal
     - Change the `MY_NAME@example.com` to yours
-    ```bash
-    git config --global user.email "MY_NAME@example.com"
-    ```
-    - Change the `FIRST_NAME LAST_NAME` you yours
-    ```bash
-    git config --global user.name "FIRST_NAME LAST_NAME"
-    ```
+        ```bash
+        git config --global user.email "MY_NAME@example.com"
+        ```
+    - Change the `FIRST_NAME LAST_NAME` to yours
+        ```bash
+        git config --global user.name "FIRST_NAME LAST_NAME"
+        ```
     PD: Don't remove the quotes from the command in terminal.
 
 ## Instructions
