@@ -1,0 +1,42 @@
+{
+  "CR7": {
+    "Matches": 923,
+    "Goals": 689,
+    "Assists": 231,
+    "Yellows": 112,
+    "Reds": 7,
+    "Yellows2": 4,
+    "Minutes": 75372,
+    "Birthday": "1985-02-05"
+  },
+  "Messi": {
+    "Matches": 800,
+    "Goals": 679,
+    "Assists": 312,
+    "Yellows": 82,
+    "Reds": 1,
+    "Yellows2": 0,
+    "Minutes": 65299,
+    "Birthday": "1987-06-24"
+  },
+  "Lewandowski": {
+    "Matches": 662,
+    "Goals": 498,
+    "Assists": 131,
+    "Yellows": 68,
+    "Reds": 0,
+    "Yellows2": 1,
+    "Minutes": 65299,
+    "Birthday": "1988-08-21"
+  },
+  "Benzema": {
+    "Matches": 737,
+    "Goals": 370,
+    "Assists": 182,
+    "Yellows": 15,
+    "Reds": 0,
+    "Yellows2": 0,
+    "Minutes": 52245,
+    "Birthday": "1987-12-19"
+  }
+}
