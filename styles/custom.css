@@ -1,0 +1,12 @@
+<style>
+div.dark {    
+    background-color: #000;
+    border-color: #000;
+    border-radius: 5px;
+    }
+
+div.right {
+    margin-left: auto; 
+    margin-right: 0;
+}
+</style>
